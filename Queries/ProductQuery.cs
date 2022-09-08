@@ -14,6 +14,8 @@ namespace GraphQLProjectCode.Queries
             Field<ProductType>("product",
               arguments: new QueryArguments(new QueryArgument<IntGraphType> { Name = "id" }),
               resolve: context => { return productService.GetById(context.GetArgument<int>("id")); });
+        
+        
         }
     }
 }
