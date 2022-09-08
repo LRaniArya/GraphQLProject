@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvsTiW1F+/4R7UNwg9/YKzyDXNg0SNi2+0HzlDLCXX2bUy7xqDDFtHJ3hCJ9Jf6gaY9APningtD4PG4a26LNQQ==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\GraphQL_ProjectCode\\GraphQLProjectCode\\GraphQLProjectCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphiql\\2.0.0\\graphiql.2.0.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphql\\5.1.1\\graphql.5.1.1.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphql-parser\\8.0.0\\graphql-parser.8.0.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphql.aspnetcore3\\2.1.0\\graphql.aspnetcore3.2.1.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphql.microsoftdi\\5.1.1\\graphql.microsoftdi.5.1.1.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphql.server.ui.playground\\7.1.0\\graphql.server.ui.playground.7.1.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\graphql.systemtextjson\\5.1.1\\graphql.systemtextjson.5.1.1.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.1\\microsoft.extensions.fileproviders.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.1\\microsoft.extensions.fileproviders.embedded.3.1.1.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\v-latarani\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
